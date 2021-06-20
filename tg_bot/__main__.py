@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+hoi {}, my name is {}![🌹](https://telegra.ph/file/211dea5c1c9b11f51644c.jpg) if you have any questions about how to use me please give me /help... 
 
 im a Nezuko bot maintained by  [this person](tg://user?id={}).
 
